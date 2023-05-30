@@ -1,0 +1,3 @@
+# Important Highlight on Solver
+In this lesson we will  learned about the various solvers that pair algorithms with a machine learning process to create an accurate model. Walk through the solvers listed in the lesson and we are going to pick two of them so as to compare and contrast between the two solvers. What kind of problem do they address? How do they work with various data structures? Why would you pick one over another?
+the answers to all these can be seen using the following [link](https://onedrive.live.com/edit.aspx?resid=2B9243028CB95B0!204&app=Word&wdnd=1&wdPreviousSession=5319ca23%2De00a%2D42d4%2Da05c%2D82935eefa0bc)
